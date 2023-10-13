@@ -8,7 +8,7 @@ Choose your location by specifying the city and country.
 Highlighted rain chances in different colors for quick visual reference.
 Built-in error handling and graceful user experience.
 Installation
-Make sure you have Go installed on your system. You can download it from golang.org.
+Make sure you have Go installed on your system. You can download it from [golang.org](https://go.dev/dl/).
 
 Clone this repository:
 ```
@@ -23,3 +23,6 @@ Run the application:
 ```
 go run .
 ```
+
+Dependencies
+This application uses the ```github.com/fatih/color``` package for colored output.
